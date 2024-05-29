@@ -9,8 +9,10 @@ CREATE TABLE ticket (
 	total_ticket DECIMAL(18, 2),
     envio_numero INT,
     caja_numero INT,
+	pago_id INT,
     FOREIGN KEY (envio_numero) REFERENCES envio(envio_numero),
-    FOREIGN KEY (caja_numero) REFERENCES caja(caja_numero)
+    FOREIGN KEY (caja_numero) REFERENCES caja(caja_numero),
+    FOREIGN KEY (pago_id) REFERENCES pago(pago_id)
 );
 
 -- Tabla detalle

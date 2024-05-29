@@ -1,6 +1,6 @@
 -- Tabla cliente
 CREATE TABLE cliente (
-    dni INT IDENTITY(1, 1) PRIMARY KEY,
+    dni DECIMAL(18, 0) IDENTITY(1, 1) PRIMARY KEY,
     nombre NVARCHAR(255) NOT NULL,
     apellido NVARCHAR(255) NOT NULL,
     fecha_registro DATETIME,
