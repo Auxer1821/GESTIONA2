@@ -30,5 +30,3 @@ CREATE TABLE Ubicacion (
     FOREIGN KEY (localidad_id) REFERENCES Localidad(localidad_id),
     FOREIGN KEY (domicilio_id) REFERENCES Domicilio(domicilio_id)
 );
-
-

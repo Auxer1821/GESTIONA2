@@ -56,7 +56,12 @@ CREATE TABLE detalle_tarjeta (
     cuotas DECIMAL(18, 0),
     pago_id INT PRIMARY KEY,
     FOREIGN KEY (pago_id) REFERENCES pago(pago_id),
-	FOREIGN KEY (tarjeta_numero) REFERENCES tarjeta(tarjeta_numero)
+	FOREIGN KEY (tarjeta_numero) REFERENCES tarjeta(tarjeta_numero) 
 );
+
+
+
+
+
  
 	

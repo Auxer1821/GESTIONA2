@@ -1373,7 +1373,7 @@
 									"font": "Arial;13;1",
 									"left": 1232,
 									"top": 573,
-									"width": 154.71240234375,
+									"width": 156.13427734375,
 									"height": 13,
 									"text": "Pago"
 								},
@@ -1399,7 +1399,7 @@
 											"font": "Arial;13;0",
 											"left": 1237,
 											"top": 596,
-											"width": 144.71240234375,
+											"width": 146.13427734375,
 											"height": 13
 										},
 										{
@@ -1414,7 +1414,7 @@
 											"font": "Arial;13;0",
 											"left": 1237,
 											"top": 611,
-											"width": 144.71240234375,
+											"width": 146.13427734375,
 											"height": 13
 										},
 										{
@@ -1429,7 +1429,7 @@
 											"font": "Arial;13;0",
 											"left": 1237,
 											"top": 626,
-											"width": 144.71240234375,
+											"width": 146.13427734375,
 											"height": 13
 										},
 										{
@@ -1444,7 +1444,7 @@
 											"font": "Arial;13;0",
 											"left": 1237,
 											"top": 641,
-											"width": 144.71240234375,
+											"width": 146.13427734375,
 											"height": 13
 										},
 										{
@@ -1507,7 +1507,7 @@
 											"font": "Arial;13;0",
 											"left": 1237,
 											"top": 656,
-											"width": 144.71240234375,
+											"width": 146.13427734375,
 											"height": 13
 										},
 										{
@@ -1523,21 +1523,21 @@
 											"font": "Arial;13;0",
 											"left": 1237,
 											"top": 671,
-											"width": 144.71240234375,
+											"width": 146.13427734375,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1232,
 									"top": 591,
-									"width": 154.71240234375,
+									"width": 156.13427734375,
 									"height": 83
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 1232,
 							"top": 568,
-							"width": 154.71240234375,
+							"width": 156.13427734375,
 							"height": 106,
 							"nameLabel": {
 								"$ref": "AAAAAAGPWX7uzh7VNC0="
@@ -3058,7 +3058,7 @@
 									"font": "Arial;13;1",
 									"left": 1504,
 									"top": 589,
-									"width": 192.02392578125,
+									"width": 193.8203125,
 									"height": 13,
 									"text": "DetallePorTarjeta"
 								},
@@ -3085,7 +3085,7 @@
 											"font": "Arial;13;0",
 											"left": 1509,
 											"top": 612,
-											"width": 182.02392578125,
+											"width": 183.8203125,
 											"height": 13
 										},
 										{
@@ -3100,7 +3100,7 @@
 											"font": "Arial;13;0",
 											"left": 1509,
 											"top": 614,
-											"width": 182.02392578125,
+											"width": 183.8203125,
 											"height": 13
 										},
 										{
@@ -3116,7 +3116,7 @@
 											"font": "Arial;13;0",
 											"left": 1509,
 											"top": 657,
-											"width": 182.02392578125,
+											"width": 183.8203125,
 											"height": 13
 										},
 										{
@@ -3131,7 +3131,7 @@
 											"font": "Arial;13;0",
 											"left": 1509,
 											"top": 629,
-											"width": 182.02392578125,
+											"width": 183.8203125,
 											"height": 13
 										},
 										{
@@ -3146,21 +3146,21 @@
 											"font": "Arial;13;0",
 											"left": 1509,
 											"top": 644,
-											"width": 182.02392578125,
+											"width": 183.8203125,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1504,
 									"top": 607,
-									"width": 192.02392578125,
+									"width": 193.8203125,
 									"height": 55
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 1504,
 							"top": 584,
-							"width": 192.02392578125,
+							"width": 193.8203125,
 							"height": 93,
 							"nameLabel": {
 								"$ref": "AAAAAAGPWcngYSPns48="
@@ -3915,20 +3915,35 @@
 											"top": 315,
 											"width": 159.7373046875,
 											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
+											"_id": "AAAAAAGPxLUrYWgozjg=",
+											"_parent": {
+												"$ref": "AAAAAAGPlkVhkTi3xC0="
+											},
+											"model": {
+												"$ref": "AAAAAAGPxLUrG2glPTA="
+											},
+											"font": "Arial;13;0",
+											"left": 773,
+											"top": 330,
+											"width": 159.7373046875,
+											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 768,
 									"top": 295,
 									"width": 169.7373046875,
-									"height": 38
+									"height": 53
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 768,
 							"top": 272,
 							"width": 169.7373046875,
-							"height": 61,
+							"height": 76,
 							"nameLabel": {
 								"$ref": "AAAAAAGPlkVhkTi2E1w="
 							},
@@ -4036,7 +4051,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 844,
-									"top": 363,
+									"top": 371,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -4070,7 +4085,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 844,
-									"top": 352,
+									"top": 367,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -4087,7 +4102,7 @@
 								"$ref": "AAAAAAGPWWlGnB2++bE="
 							},
 							"lineStyle": 2,
-							"points": "859:408;859:333",
+							"points": "859:408;859:348",
 							"nameLabel": {
 								"$ref": "AAAAAAGPlkccETkOOtI="
 							},
@@ -6396,7 +6411,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1445,
+									"left": 1446,
 									"top": 608,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -6413,7 +6428,7 @@
 										"$ref": "AAAAAAGPwsh/zqxNdu8="
 									},
 									"font": "Arial;13;0",
-									"left": 1412,
+									"left": 1413,
 									"top": 608,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -6448,7 +6463,7 @@
 								"$ref": "AAAAAAGPWX7uzh7URU4="
 							},
 							"lineStyle": 2,
-							"points": "1387:629;1504:629",
+							"points": "1388:629;1504:629",
 							"nameLabel": {
 								"$ref": "AAAAAAGPwsh/zqxOFo8="
 							},
@@ -9165,6 +9180,17 @@
 								"$ref": "AAAAAAGPlkVhkTizqJk="
 							},
 							"name": "CAJA_NUMERO",
+							"length": 0,
+							"primaryKey": true,
+							"foreignKey": true
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGPxLUrG2glPTA=",
+							"_parent": {
+								"$ref": "AAAAAAGPlkVhkTizqJk="
+							},
+							"name": "SUCURSAL_ID",
 							"length": 0,
 							"primaryKey": true,
 							"foreignKey": true
